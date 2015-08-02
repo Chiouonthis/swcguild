@@ -1,1 +1,3 @@
-This is the first version of the text file, by Ward.
+This is the second version of the text file, by Ward.
+
+Much better, don’t you think?
